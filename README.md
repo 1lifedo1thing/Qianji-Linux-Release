@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/qianji-logo.png" alt="钱迹" width="240">
+  <img src="assets/qianji-logo.png" alt="钱迹" width="160">
 </p>
 
 <h1 align="center">钱迹 Linux</h1>
