@@ -20,6 +20,30 @@
 > [!NOTE]
 > Linux 版目前处于测试发布阶段，仅提供 x86_64 架构。安装包通过本仓库的 GitHub Releases 分发。
 
+<details>
+<summary><strong>安装效果（点击展开）</strong></summary>
+
+<br>
+
+以下截图来自真实内测场景。
+
+<p align="center">
+  <a href="assets/screenshots/qianji-ubuntu-24.webp"><img src="assets/screenshots/qianji-ubuntu-24.webp" alt="钱迹运行于 Ubuntu 24.04" width="720"></a><br>
+  <sub>Ubuntu 24.04 · AppImage</sub>
+</p>
+
+<p align="center">
+  <a href="assets/screenshots/qianji-fedora-44.webp"><img src="assets/screenshots/qianji-fedora-44.webp" alt="钱迹运行于 Fedora 44" width="720"></a><br>
+  <sub>Fedora 44 · RPM</sub>
+</p>
+
+<p align="center">
+  <a href="assets/screenshots/qianji-omarchy.webp"><img src="assets/screenshots/qianji-omarchy.webp" alt="钱迹运行于 Arch Linux 和 Omarchy" width="720"></a><br>
+  <sub>Arch Linux · Omarchy</sub>
+</p>
+
+</details>
+
 ## 下载
 
 请从 [v4.5.2 Release](https://github.com/NeroSong/Qianji-Linux-Release/releases/tag/v4.5.2) 下载当前版本：
@@ -120,25 +144,6 @@ chmod +x install-qianji-appimage.sh
 - Arch Linux / Omarchy
 
 其他 Linux 发行版可尝试使用 AppImage。
-
-## 安装效果
-
-以下截图来自真实内测场景。
-
-<p align="center">
-  <a href="assets/screenshots/qianji-ubuntu-24.webp"><img src="assets/screenshots/qianji-ubuntu-24.webp" alt="钱迹运行于 Ubuntu 24.04" width="720"></a><br>
-  <sub>Ubuntu 24.04 · AppImage</sub>
-</p>
-
-<p align="center">
-  <a href="assets/screenshots/qianji-fedora-44.webp"><img src="assets/screenshots/qianji-fedora-44.webp" alt="钱迹运行于 Fedora 44" width="720"></a><br>
-  <sub>Fedora 44 · RPM</sub>
-</p>
-
-<p align="center">
-  <a href="assets/screenshots/qianji-omarchy.webp"><img src="assets/screenshots/qianji-omarchy.webp" alt="钱迹运行于 Arch Linux 和 Omarchy" width="720"></a><br>
-  <sub>Arch Linux · Omarchy</sub>
-</p>
 
 ## 反馈与安全问题
 
