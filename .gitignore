@@ -1,0 +1,14 @@
+# Release artifacts belong in GitHub Releases, not in Git history.
+*.AppImage
+*.deb
+*.rpm
+*.pkg.tar.zst
+*.sha256
+SHA256SUMS
+
+# Local release staging and common editor/system files.
+dist/
+.local/
+*.log
+.DS_Store
+*~
