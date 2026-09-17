@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.qianjiapp.com/">官方网站</a> ·
-  <a href="https://github.com/NeroSong/Qianji-Linux-Release/releases/tag/v4.5.2">版本下载</a> ·
+  <a href="https://github.com/litangtech/Qianji-Linux-Release/releases/tag/v4.5.2">版本下载</a> ·
   <a href="#安装">安装指南</a> ·
   <a href="#反馈与安全问题">问题反馈</a>
 </p>
@@ -46,14 +46,14 @@
 
 ## 下载
 
-请从 [v4.5.2 Release](https://github.com/NeroSong/Qianji-Linux-Release/releases/tag/v4.5.2) 下载当前版本：
+请从 [v4.5.2 Release](https://github.com/litangtech/Qianji-Linux-Release/releases/tag/v4.5.2) 下载当前版本：
 
 | 适用环境 | 安装包 | 校验文件 |
 | :--- | :--- | :--- |
-| Ubuntu / Debian | [qianji_v4.5.2-1560-961a8c0c_amd64.deb](https://github.com/NeroSong/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_amd64.deb) | [SHA-256](https://github.com/NeroSong/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_amd64.deb.sha256) |
-| Fedora / RPM 系发行版 | [qianji_v4.5.2-1560-961a8c0c_x86_64.rpm](https://github.com/NeroSong/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_x86_64.rpm) | [SHA-256](https://github.com/NeroSong/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_x86_64.rpm.sha256) |
-| Arch Linux / Omarchy | [qianji_v4.5.2-1560-961a8c0c_x86_64.pkg.tar.zst](https://github.com/NeroSong/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_x86_64.pkg.tar.zst) | [SHA-256](https://github.com/NeroSong/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_x86_64.pkg.tar.zst.sha256) |
-| 其他兼容的 x86_64 桌面发行版 | [qianji_v4.5.2-1560-961a8c0c_amd64.AppImage](https://github.com/NeroSong/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_amd64.AppImage) | [SHA-256](https://github.com/NeroSong/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_amd64.AppImage.sha256) |
+| Ubuntu / Debian | [qianji_v4.5.2-1560-961a8c0c_amd64.deb](https://github.com/litangtech/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_amd64.deb) | [SHA-256](https://github.com/litangtech/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_amd64.deb.sha256) |
+| Fedora / RPM 系发行版 | [qianji_v4.5.2-1560-961a8c0c_x86_64.rpm](https://github.com/litangtech/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_x86_64.rpm) | [SHA-256](https://github.com/litangtech/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_x86_64.rpm.sha256) |
+| Arch Linux / Omarchy | [qianji_v4.5.2-1560-961a8c0c_x86_64.pkg.tar.zst](https://github.com/litangtech/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_x86_64.pkg.tar.zst) | [SHA-256](https://github.com/litangtech/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_x86_64.pkg.tar.zst.sha256) |
+| 其他兼容的 x86_64 桌面发行版 | [qianji_v4.5.2-1560-961a8c0c_amd64.AppImage](https://github.com/litangtech/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_amd64.AppImage) | [SHA-256](https://github.com/litangtech/Qianji-Linux-Release/releases/download/v4.5.2/qianji_v4.5.2-1560-961a8c0c_amd64.AppImage.sha256) |
 
 根据自身系统下载对应安装包即可。
 
@@ -121,7 +121,7 @@ chmod +x qianji_v4.5.2-1560-961a8c0c_amd64.AppImage
 ./qianji_v4.5.2-1560-961a8c0c_amd64.AppImage
 ```
 
-如需为当前用户注册应用菜单和图标，请下载 [install-qianji-appimage.sh](https://github.com/NeroSong/Qianji-Linux-Release/releases/download/v4.5.2/install-qianji-appimage.sh)，并与 AppImage、对应 `.sha256` 文件放在同一目录，然后执行：
+如需为当前用户注册应用菜单和图标，请下载 [install-qianji-appimage.sh](https://github.com/litangtech/Qianji-Linux-Release/releases/download/v4.5.2/install-qianji-appimage.sh)，并与 AppImage、对应 `.sha256` 文件放在同一目录，然后执行：
 
 ```bash
 chmod +x install-qianji-appimage.sh
