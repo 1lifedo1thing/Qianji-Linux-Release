@@ -59,7 +59,7 @@
 
 
 > [!TIP]
-> Arch Linux / Omarchy 用户也可通过热心社区小伙伴维护的 [AUR `qianji-bin` 包](https://aur.archlinux.org/packages/qianji-bin) 方便的一键安装和更新。
+> Arch 系用户也可通过热心的社区小伙伴维护的 AUR 包 [`qianji-bin`](https://aur.archlinux.org/packages/qianji-bin) 来方便的一键安装，并保持自动更新。
 
 ```bash
 yay -S qianji-bin
